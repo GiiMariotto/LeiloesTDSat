@@ -1,0 +1,4 @@
+# Ignorar arquivos compilados e pastas do NetBeans
+/build/
+/nbproject/private/
+/*.class
